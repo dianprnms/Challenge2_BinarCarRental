@@ -73,7 +73,7 @@
   
   .navbar-nav {
     margin-left: auto;
-    margin-right: 20px; /* Mengatur margin kanan navbar */
+    margin-right: 20px; 
   }
   
   .text-title {
@@ -245,7 +245,7 @@
   .service {
     margin-top: 50px; 
     margin-left: 20px; 
-    padding-bottom: 50px; /* Mengurangi padding bawah */
+    padding-bottom: 50px; 
   }
 
   .list-group {
@@ -253,39 +253,33 @@
     padding-left: 5px;
   }
 
-  /* Testimonial */
   .testimonial {
-    padding-bottom: 50px; /* Mengurangi padding bawah */
+    padding-bottom: 50px; 
   }
 
-  /* Mulai Sewa Mobil */
   .sewa {
-    margin-left: 20px; /* Mengurangi margin kiri */
-    margin-right: 20px; /* Mengurangi margin kanan */
-    padding-top: 20px; /* Mengurangi padding atas */
-    padding-bottom: 20px; /* Mengurangi padding bawah */
+    margin-left: 20px; 
+    margin-right: 20px; 
+    padding-top: 20px; 
+    padding-bottom: 20px;
   }
 
   .text-bold-big {
     font-size: 20px; 
   }
 
-  /* Question */
   .question {
-    padding-bottom: 30px; /* Mengurangi padding bawah */
-  }
+    padding-bottom: 30px; 
 
-  /* Footer */
   .footer {
-    padding-bottom: 30px; /* Mengurangi padding bawah */
+    padding-bottom: 30px; 
   }
 
-  /* Mengatur gambar agar selalu berada di tengah */
   .img-car {
-    display: block; /* Mengubah gambar menjadi blok */
-    margin-left: auto; /* Menggeser gambar ke tengah */
-    margin-right: auto; /* Menggeser gambar ke tengah */
-    max-width: 100%; /* Mengurangi lebar maksimum gambar */
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 100%; 
   }
 
   .img-service {
@@ -296,14 +290,14 @@
   }
 
   .gambar-list {
-    margin-right: 5px; /* Mengurangi margin kanan pada gambar daftar */
+    margin-right: 5px; 
   }
 
   .card {
-    width: 90%; /* Mengurangi lebar kartu */
-    margin-left: auto; /* Menggeser kartu ke tengah */
-    margin-right: auto; /* Menggeser kartu ke tengah */
-    margin-top: 20px; /* Mengurangi margin atas kartu */
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 20px; 
   }
 
   .whyus {
@@ -317,11 +311,11 @@
 }
 
 .custom-card {
-  width: calc(100% - 40px); /* Mengatur lebar kartu agar sesuai dengan lebar layar dengan mengurangi margin kiri dan kanan */
-  margin-left: auto; /* Menggeser kartu ke tengah */
-  margin-right: auto; /* Menggeser kartu ke tengah */
-  margin-top: 20px; /* Mengurangi margin atas kartu */
-  margin-bottom: 20px; /* Menambahkan margin bawah kartu */
+  width: calc(100% - 40px); 
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-top: 20px; 
+  margin-bottom: 20px; 
 }
 
 .card-text {
